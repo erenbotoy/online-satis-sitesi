@@ -1,1 +1,1 @@
-![Proje](Ibrahim_Eren_Botoy.gif)
+![Proje](./Ibrahim_Eren_Botoy.gif)
